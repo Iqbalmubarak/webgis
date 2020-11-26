@@ -728,16 +728,16 @@
                             <div class="container2">
                               <div class="row2" >
                                 <div class="mySlides">
-                                  <a href="" onclick="galeri('19')"><img src="foto/19-1.jpg" style="width:100%"><div class="text">Aur</div></a>
+                                  <a href="" onclick="galeri('19')"><img src="foto/19-1.JPG" style="width:100%"><div class="text">Aur</div></a>
                                 </div>
                                 <div class="mySlides">
-                                  <a href="" onclick="galeri('14')"><img src="14-1.JPG" style="width:100%"><div class="text">Jambu Air</div></a>
+                                  <a href="" onclick="galeri('14')"><img src="foto/14-1.JPG" style="width:100%"><div class="text">Jambu Air</div></a>
                                 </div>
                                 <div class="mySlides">
-                                  <a href="" onclick="galeri('15')"><img src="foto/15-1.jpg" style="width:100%"><div class="text">Belakang Balok</div></a>
+                                  <a href="" onclick="galeri('15')"><img src="foto/15-1.JPG" style="width:100%"><div class="text">Belakang Balok</div></a>
                                 </div>
                                 <div class="mySlides">
-                                  <a href="" onclick="galeri('18')"><img src="foto/18-1.jpg" style="width:100%"><div class="text">Parit Antang</div></a>
+                                  <a href="" onclick="galeri('18')"><img src="foto/18-1.JPG" style="width:100%"><div class="text">Parit Antang</div></a>
                                 </div>
                                 <a class="prev" onclick="plusSlides(-1)">❮</a>
                                 <a class="next" onclick="plusSlides(1)">❯</a>
@@ -745,16 +745,16 @@
                               <br>
                               <div class="row2">
                                 <div class="column">
-                                  <img class="demo cursor" src="foto/19-1.jpg" style="width:100%" onclick="currentSlide(1)">
+                                  <img class="demo cursor" src="foto/19-1.JPG" style="width:100%" onclick="currentSlide(1)">
                                 </div>
                                 <div class="column">
-                                  <img class="demo cursor" src="foto/14-1.jpg" style="width:100%" onclick="currentSlide(2)">
+                                  <img class="demo cursor" src="foto/14-1.JPG" style="width:100%" onclick="currentSlide(2)">
                                 </div>
                                 <div class="column">
-                                  <img class="demo cursor" src="foto/15-1.jpg" style="width:100%" onclick="currentSlide(3)">
+                                  <img class="demo cursor" src="foto/15-1.JPG" style="width:100%" onclick="currentSlide(3)">
                                 </div>
                                 <div class="column">
-                                  <img class="demo cursor" src="foto/18-1.jpg" style="width:100%" onclick="currentSlide(4)">
+                                  <img class="demo cursor" src="foto/18-1.JPG" style="width:100%" onclick="currentSlide(4)">
                                 </div>
 
                                 <a class="prev1" onclick="plusSlides(-1)">❮</a>
