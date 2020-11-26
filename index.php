@@ -731,7 +731,7 @@
                                   <a href="" onclick="galeri('19')"><img src="foto/19-1.jpg" style="width:100%"><div class="text">Aur</div></a>
                                 </div>
                                 <div class="mySlides">
-                                  <a href="" onclick="galeri('14')"><img src="foto/14-1.jpg" style="width:100%"><div class="text">Jambu Air</div></a>
+                                  <a href="" onclick="galeri('14')"><img src="foto/14-1.JPG" style="width:100%"><div class="text">Jambu Air</div></a>
                                 </div>
                                 <div class="mySlides">
                                   <a href="" onclick="galeri('15')"><img src="foto/15-1.jpg" style="width:100%"><div class="text">Belakang Balok</div></a>
