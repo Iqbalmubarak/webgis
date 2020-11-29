@@ -226,10 +226,10 @@
                           $hasil=pg_query($conn,$querysearch);
                           while($baris = pg_fetch_assoc($hasil)){
                             if(($baris['gallery_hotel']=='-')||($baris['gallery_hotel']=='')){
-                              echo "<a href='foto/foto.jpg'><img src='../_foto/foto.jpg' ></a>";
+                              echo "<a href='foto/foto.jpg'><img src='foto/foto.jpg' ></a>";
                             }
                             else{
-                              echo "<a href='foto/".$baris['gallery_hotel']."'><img src='../_foto/".$baris['gallery_hotel']."'></a>";
+                              echo "<a href='foto/".$baris['gallery_hotel']."'><img src='foto/".$baris['gallery_hotel']."'></a>";
                             }
                           }
                 
@@ -239,10 +239,10 @@
                           $hasil=pg_query($conn,$querysearch);
                           while($baris = pg_fetch_assoc($hasil)){
                             if(($baris['gallery_tourism']=='-')||($baris['gallery_tourism']=='')){
-                              echo "<a href='foto/foto.jpg'><img src='../_foto/foto.jpg' ></a>";
+                              echo "<a href='foto/foto.jpg'><img src='foto/foto.jpg' ></a>";
                             }
                             else{
-                              echo "<a href='foto/".$baris['gallery_tourism']."'><img src='../_foto/".$baris['gallery_tourism']."'></a>";
+                              echo "<a href='foto/".$baris['gallery_tourism']."'><img src='foto/".$baris['gallery_tourism']."'></a>";
                             }
                           }
 
@@ -252,10 +252,10 @@
                           $hasil=pg_query($conn,$querysearch);
                           while($baris = pg_fetch_assoc($hasil)){
                             if(($baris['gallery_worship_place']=='-')||($baris['gallery_worship_place']=='')){
-                              echo "<a href='foto/foto.jpg'><img src='../_foto/foto.jpg' ></a>";
+                              echo "<a href='foto/foto.jpg'><img src='foto/foto.jpg' ></a>";
                             }
                             else{
-                              echo "<a href='foto/".$baris['gallery_worship_place']."'><img src='../_foto/".$baris['gallery_worship_place']."'></a>";
+                              echo "<a href='foto/".$baris['gallery_worship_place']."'><img src='foto/".$baris['gallery_worship_place']."'></a>";
                             }
                           }
 
@@ -265,10 +265,10 @@
                           $hasil=pg_query($conn,$querysearch);
                           while($baris = pg_fetch_assoc($hasil)){
                             if(($baris['gallery_souvenir']=='-')||($baris['gallery_souvenir']=='')){
-                              echo "<a href='foto/foto.jpg'><img src='../_foto/foto.jpg' ></a>";
+                              echo "<a href='foto/foto.jpg'><img src='foto/foto.jpg' ></a>";
                             }
                             else{
-                              echo "<a href='foto/".$baris['gallery_souvenir']."'><img src='../_foto/".$baris['gallery_souvenir']."'></a>";
+                              echo "<a href='foto/".$baris['gallery_souvenir']."'><img src='foto/".$baris['gallery_souvenir']."'></a>";
                             }
                           }
 
@@ -278,10 +278,10 @@
                           $hasil=pg_query($conn,$querysearch);
                           while($baris = pg_fetch_assoc($hasil)){
                             if(($baris['gallery_culinary']=='-')||($baris['gallery_culinary']=='')){
-                              echo "<a href='foto/foto.jpg'><img src='../_foto/foto.jpg' ></a>";
+                              echo "<a href='foto/foto.jpg'><img src='foto/foto.jpg' ></a>";
                             }
                             else{
-                              echo "<a href='foto/".$baris['gallery_culinary']."'><img src='../_foto/".$baris['gallery_culinary']."'></a>";
+                              echo "<a href='foto/".$baris['gallery_culinary']."'><img src='foto/".$baris['gallery_culinary']."'></a>";
                             }
                           }
 
@@ -291,10 +291,10 @@
                           $hasil=pg_query($conn,$querysearch);
                           while($baris = pg_fetch_assoc($hasil)){
                             if(($baris['gallery_industry']=='-')||($baris['gallery_industry']=='')){
-                              echo "<a href='foto/foto.jpg'><img src='../_foto/foto.jpg' ></a>";
+                              echo "<a href='foto/foto.jpg'><img src='foto/foto.jpg' ></a>";
                             }
                             else{
-                              echo "<a href='foto/".$baris['gallery_industry']."'><img src='../_foto/".$baris['gallery_industry']."'></a>";
+                              echo "<a href='foto/".$baris['gallery_industry']."'><img src='foto/".$baris['gallery_industry']."'></a>";
                             }
                           }
 
@@ -304,10 +304,10 @@
                           $hasil=pg_query($conn,$querysearch);
                           while($baris = pg_fetch_assoc($hasil)){
                             if(($baris['gallery_restaurant']=='-')||($baris['gallery_restaurant']=='')){
-                              echo "<a href='foto/foto.jpg'><img src='../_foto/foto.jpg' ></a>";
+                              echo "<a href='foto/foto.jpg'><img src='foto/foto.jpg' ></a>";
                             }
                             else{
-                              echo "<a href='foto/".$baris['gallery_restaurant']."'><img src='../_foto/".$baris['gallery_restaurant']."'></a>";
+                              echo "<a href='foto/".$baris['gallery_restaurant']."'><img src='foto/".$baris['gallery_restaurant']."'></a>";
                             }
                           }
 
@@ -319,10 +319,10 @@
                           $hasil=pg_query($conn,$querysearch);
                           while($baris = pg_fetch_assoc($hasil)){
                             if(($baris['gallery_angkot']=='-')||($baris['gallery_angkot']=='')){
-                              echo "<a href='foto/foto.jpg'><img src='../_foto/foto.jpg' ></a>";
+                              echo "<a href='foto/foto.jpg'><img src='foto/foto.jpg' ></a>";
                             }
                             else{
-                              echo "<a href='foto/".$baris['gallery_angkot']."'><img src='../_foto/".$baris['gallery_angkot']."'><label>&nbsp</a>";
+                              echo "<a href='foto/".$baris['gallery_angkot']."'><img src='foto/".$baris['gallery_angkot']."'><label>&nbsp</a>";
                             }
                           }
 
